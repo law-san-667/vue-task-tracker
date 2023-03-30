@@ -1,0 +1,20 @@
+{
+  "name": "vue-task-tracker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "fake-back": "json-server --watch db.json --port 3300"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "vue": "^3.2.47",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}

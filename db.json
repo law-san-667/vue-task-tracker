@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 8:30am",
+      "reminder": true
+    },
+    {
+      "text": "Dentist appt",
+      "day": "March 30th 3:00pm",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Finish the VueJS crash course",
+      "day": "March 30th at 9:00pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Start the Swift crash course",
+      "day": "April 3rd at 9:00am",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
